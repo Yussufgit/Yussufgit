@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on **IoT, Data Science and Machine learning.**
 - 🤔 I’m looking for help with **Ionic framework for offline apps.**
 - 💬 Ask me about **Web Dev(HTML,CSS,JS,PHP and MySQL).** 
-- 📫 How to reach me: **mailto:yussufmohamed608@gmail.com**
+- 📫 How to reach me: **yussufmohamed608@gmail.com**
 - ⚡ Fun fact: **The Ctrl-Z is better than a time machine.**
 
