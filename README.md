@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yussuf Mohamed, Electrical & Electronic Engineering Student at (http://tukenya.ac.ke/" TechnicalUniversity of Kenya") , Light Current option && a Self-taught Developer.
+### Hi 👋, I'm Yussuf Mohamed, Electrical & Electronic Engineering Student, Light Current option.
 
 **Data Science, IoT and Machine Learning Enthusiast**.
 
