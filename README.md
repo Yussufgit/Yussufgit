@@ -3,9 +3,9 @@
 **Data Science, IoT and Machine Learning Enthusiast**.
 
 - 🔭 I’m currently working on **Improving Food Security and Crop Yield in Nigeria through Machine Learning**
-- 🌱 I’m currently learning **Data analysis, Machine Learning and R programming.**
+- 🌱 I’m currently learning **Data analytics, Machine Learning with R**
 - 👯 I’m looking to collaborate on **IoT, Data Science and Machine learning for healthcare & fintech systems.**
-- 🤔 I’m looking for help on **offline apps.**
+- 🤔 I’m looking for help on **deployment of models as offline apps.**
 - 💬 Ask me about **IoT, Web & Android Dev.** 
 - 📫 How to reach me: **yussufmohamed608@gmail.com**
 - ⚡ Fun fact: **Ctrl-Z is better than a time machine.**
