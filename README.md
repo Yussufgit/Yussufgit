@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yussuf Mohamed, Electronic & Computer Engineer.
+### Hi 👋, I'm Yussuf Mohamed, Software Engineer.
 
 - 🔭 I’m currently working on **Streaming vehicle telematics in realtime**
 - 🌱 I’m currently learning **SQL and AWS Cloud**
