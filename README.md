@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yussuf Mohamed, Rising Data Engineer.
+### Hi 👋, I'm Yussuf Mohamed, Jr Data Engineer.
 
 - 🔭 I’m currently working on **Text Summarization, Comprehension and Entity recognition of UN-SDGs project based on Shell Petroleum**
 - 🌱 I’m currently learning **Kedro**
